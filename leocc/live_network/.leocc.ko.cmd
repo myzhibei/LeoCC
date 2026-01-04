@@ -1,0 +1,1 @@
+savedcmd_/home/myzhibei/LeoCC/leocc/live_network/leocc.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/myzhibei/LeoCC/leocc/live_network/leocc.ko /home/myzhibei/LeoCC/leocc/live_network/leocc.o /home/myzhibei/LeoCC/leocc/live_network/leocc.mod.o
